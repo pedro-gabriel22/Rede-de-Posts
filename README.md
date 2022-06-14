@@ -1,6 +1,8 @@
 # Rede de Posts
 
 
+![post2](https://user-images.githubusercontent.com/75812324/173674490-33d8e164-99b8-4b2c-97fc-1b3a4f3fd84b.png)
+
 
 ## Descrição
 <p>
